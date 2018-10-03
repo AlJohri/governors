@@ -1,0 +1,906 @@
+- id:
+    nga: https://classic.nga.org/cms/kay-ivey
+    votesmart: '27642'
+    ap: null
+  name:
+    official_full: Kay Ivey
+  bio:
+    birthday: '1944-10-15'
+  terms:
+  - type: gov
+    start: '2017-04-10'
+    end: null
+    party: Republican
+    state: AL
+- id:
+    nga: https://classic.nga.org/cms/bill-walker
+    votesmart: '123219'
+    ap: 61472
+  name:
+    official_full: Bill Walker
+  bio:
+    birthday: '1951-04-15'
+  terms:
+  - type: gov
+    start: '2014-12-01'
+    end: null
+    party: Independent
+    state: AK
+- id:
+    nga: https://classic.nga.org/cms/lolo-matalasi-moliga
+    votesmart: '144452'
+    ap: null
+  name:
+    official_full: Lolo Matalasi Moliga
+  bio:
+    birthday: null
+  terms:
+  - type: gov
+    start: '2013-01-03'
+    end: null
+    party: Independent
+    state: AS
+- id:
+    nga: https://classic.nga.org/cms/doug-ducey
+    votesmart: '123548'
+    ap: 64364
+  name:
+    official_full: Doug Ducey
+  bio:
+    birthday: '1964-04-09'
+  terms:
+  - type: gov
+    start: '2015-01-05'
+    end: null
+    party: Republican
+    state: AZ
+- id:
+    nga: https://classic.nga.org/cms/asa-hutchinson
+    votesmart: '732'
+    ap: 5956
+  name:
+    official_full: Asa Hutchinson
+  bio:
+    birthday: '1950-12-03'
+  terms:
+  - type: gov
+    start: '2015-01-13'
+    end: null
+    party: Republican
+    state: AR
+- id:
+    nga: https://classic.nga.org/cms/edmund-gerald-brown
+    votesmart: '69557'
+    ap: null
+  name:
+    official_full: Edmund G. Brown
+  bio:
+    birthday: '1938-04-07'
+  terms:
+  - type: gov
+    start: '1975-01-05'
+    end: '1983-01-03'
+    party: Democrat
+    state: CA
+  - type: gov
+    start: '2011-01-03'
+    end: null
+    party: Democrat
+    state: CA
+- id:
+    nga: https://classic.nga.org/cms/john-hickenlooper
+    votesmart: '71547'
+    ap: 60601
+  name:
+    official_full: John Hickenlooper
+  bio:
+    birthday: '1952-02-07'
+  terms:
+  - type: gov
+    start: '2011-01-11'
+    end: null
+    party: Democrat
+    state: CO
+- id:
+    nga: https://classic.nga.org/cms/dannel-malloy
+    votesmart: '66223'
+    ap: null
+  name:
+    official_full: Dannel Malloy
+  bio:
+    birthday: '1955-07-21'
+  terms:
+  - type: gov
+    start: '2011-01-05'
+    end: null
+    party: Democrat
+    state: CT
+- id:
+    nga: https://classic.nga.org/cms/john-carney
+    votesmart: '53658'
+    ap: 10206
+  name:
+    official_full: John Carney
+  bio:
+    birthday: '1960-05-20'
+  terms:
+  - type: gov
+    start: '2017-01-17'
+    end: null
+    party: Democrat
+    state: DE
+- id:
+    nga: https://classic.nga.org/cms/rick-scott
+    votesmart: '124204'
+    ap: 61149
+  name:
+    official_full: Rick Scott
+  bio:
+    birthday: '1952-12-01'
+  terms:
+  - type: gov
+    start: '2011-01-04'
+    end: null
+    party: Republican
+    state: FL
+- id:
+    nga: https://classic.nga.org/cms/nathan-deal
+    votesmart: '26824'
+    ap: 841
+  name:
+    official_full: Nathan Deal
+  bio:
+    birthday: '1942-08-25'
+  terms:
+  - type: gov
+    start: '2011-01-10'
+    end: null
+    party: Republican
+    state: GA
+- id:
+    nga: https://classic.nga.org/cms/eddie-baza-calvo
+    votesmart: '129650'
+    ap: null
+  name:
+    official_full: Eddie Baza Calvo
+  bio:
+    birthday: '1961-08-29'
+  terms:
+  - type: gov
+    start: '2011-01-03'
+    end: null
+    party: Republican
+    state: GU
+- id:
+    nga: https://classic.nga.org/cms/david-ige
+    votesmart: '3406'
+    ap: 53396
+  name:
+    official_full: David Ige
+  bio:
+    birthday: '1957-01-15'
+  terms:
+  - type: gov
+    start: '2014-12-01'
+    end: null
+    party: Democrat
+    state: HI
+- id:
+    nga: https://classic.nga.org/cms/c-l-butch-otter
+    votesmart: '1679'
+    ap: null
+  name:
+    official_full: C. L. Otter (Butch)
+  bio:
+    birthday: '1942-05-03'
+  terms:
+  - type: gov
+    start: '2007-01-02'
+    end: null
+    party: Republican
+    state: ID
+- id:
+    nga: https://classic.nga.org/cms/bruce-rauner
+    votesmart: '147492'
+    ap: 63253
+  name:
+    official_full: Bruce Rauner
+  bio:
+    birthday: '1957-02-18'
+  terms:
+  - type: gov
+    start: '2015-01-12'
+    end: null
+    party: Republican
+    state: IL
+- id:
+    nga: https://classic.nga.org/cms/eric-holcomb
+    votesmart: '34349'
+    ap: 18906
+  name:
+    official_full: Eric Holcomb
+  bio:
+    birthday: '1968-05-02'
+  terms:
+  - type: gov
+    start: '2017-01-11'
+    end: null
+    party: Republican
+    state: IN
+- id:
+    nga: https://classic.nga.org/cms/mike-pence
+    votesmart: '34024'
+    ap: 431
+  name:
+    official_full: Mike Pence
+  bio:
+    birthday: null
+  terms:
+  - type: gov
+    start: '2013-01-14'
+    end: '2017-01-10'
+    party: Republican
+    state: IN
+- id:
+    nga: https://classic.nga.org/cms/kim-reynolds
+    votesmart: '103324'
+    ap: null
+  name:
+    official_full: Kim Reynolds
+  bio:
+    birthday: null
+  terms:
+  - type: gov
+    start: '2017-05-24'
+    end: null
+    party: Republican
+    state: IA
+- id:
+    nga: https://classic.nga.org/cms/jeff-colyer
+    votesmart: '34449'
+    ap: null
+  name:
+    official_full: Jeff Colyer
+  bio:
+    birthday: '1960-06-03'
+  terms:
+  - type: gov
+    start: '2018-01-31'
+    end: null
+    party: Republican
+    state: KS
+- id:
+    nga: https://classic.nga.org/cms/sam-brownback
+    votesmart: '21952'
+    ap: 1720
+  name:
+    official_full: Sam Brownback
+  bio:
+    birthday: '1956-09-12'
+  terms:
+  - type: gov
+    start: '2011-01-10'
+    end: '2015-01-12'
+    party: Republican
+    state: KS
+  - type: gov
+    start: '2015-01-12'
+    end: '2018-01-31'
+    party: Republican
+    state: KS
+- id:
+    nga: https://classic.nga.org/cms/matt-bevin
+    votesmart: '146094'
+    ap: 63424
+  name:
+    official_full: Matt Bevin
+  bio:
+    birthday: '1967-01-09'
+  terms:
+  - type: gov
+    start: '2015-12-08'
+    end: null
+    party: Republican
+    state: KY
+- id:
+    nga: https://classic.nga.org/cms/john-bel-edwards
+    votesmart: '66464'
+    ap: 27723
+  name:
+    official_full: John Bel Edwards
+  bio:
+    birthday: '1966-09-16'
+  terms:
+  - type: gov
+    start: '2016-01-11'
+    end: null
+    party: Democrat
+    state: LA
+- id:
+    nga: https://classic.nga.org/cms/paul-lepage
+    votesmart: '120907'
+    ap: 60414
+  name:
+    official_full: Paul LePage
+  bio:
+    birthday: '1948-10-09'
+  terms:
+  - type: gov
+    start: '2011-01-05'
+    end: null
+    party: Republican
+    state: ME
+- id:
+    nga: https://classic.nga.org/cms/larry-hogan
+    votesmart: '147764'
+    ap: 63859
+  name:
+    official_full: Larry Hogan
+  bio:
+    birthday: '1956-05-25'
+  terms:
+  - type: gov
+    start: '2015-01-21'
+    end: null
+    party: Republican
+    state: MD
+- id:
+    nga: https://classic.nga.org/cms/charlie-baker
+    votesmart: '124824'
+    ap: 60668
+  name:
+    official_full: Charlie Baker
+  bio:
+    birthday: '1956-11-13'
+  terms:
+  - type: gov
+    start: '2015-01-08'
+    end: null
+    party: Republican
+    state: MA
+- id:
+    nga: https://classic.nga.org/cms/rick-snyder
+    votesmart: '124011'
+    ap: 61073
+  name:
+    official_full: Rick Snyder
+  bio:
+    birthday: '1958-08-19'
+  terms:
+  - type: gov
+    start: '2011-01-01'
+    end: null
+    party: Republican
+    state: MI
+- id:
+    nga: https://classic.nga.org/cms/mark-dayton
+    votesmart: '20301'
+    ap: 1730
+  name:
+    official_full: Mark Dayton
+  bio:
+    birthday: '1947-01-26'
+  terms:
+  - type: gov
+    start: '2011-01-03'
+    end: null
+    party: Democrat
+    state: MN
+- id:
+    nga: https://classic.nga.org/cms/phil-bryant
+    votesmart: '2126'
+    ap: 27207
+  name:
+    official_full: Phil Bryant
+  bio:
+    birthday: '1954-12-09'
+  terms:
+  - type: gov
+    start: '2012-01-10'
+    end: null
+    party: Republican
+    state: MS
+- id:
+    nga: https://classic.nga.org/cms/mike-parson
+    votesmart: '39119'
+    ap: null
+  name:
+    official_full: Mike Parson
+  bio:
+    birthday: '1955-09-17'
+  terms:
+  - type: gov
+    start: '2018-06-01'
+    end: null
+    party: Republican
+    state: MO
+- id:
+    nga: https://classic.nga.org/cms/home/governors/past-governors-bios/page_missouri/col2-content/main-content-list/eric-greitens.default.html
+    votesmart: '169028'
+    ap: 65384
+  name:
+    official_full: Eric Greitens
+  bio:
+    birthday: '1974-04-10'
+  terms:
+  - type: gov
+    start: '2017-01-08'
+    end: '2018-06-01'
+    party: Republican
+    state: MO
+- id:
+    nga: https://classic.nga.org/cms/steve-bullock
+    votesmart: '110899'
+    ap: 61839
+  name:
+    official_full: Steve Bullock
+  bio:
+    birthday: '1966-04-12'
+  terms:
+  - type: gov
+    start: '2013-01-07'
+    end: null
+    party: Democrat
+    state: MT
+- id:
+    nga: https://classic.nga.org/cms/pete-ricketts
+    votesmart: '57777'
+    ap: 51566
+  name:
+    official_full: Pete Ricketts
+  bio:
+    birthday: '1964-08-19'
+  terms:
+  - type: gov
+    start: '2015-01-08'
+    end: null
+    party: Republican
+    state: NE
+- id:
+    nga: https://classic.nga.org/cms/brian-sandoval
+    votesmart: '9067'
+    ap: 30767
+  name:
+    official_full: Brian Sandoval
+  bio:
+    birthday: '1963-08-05'
+  terms:
+  - type: gov
+    start: '2011-01-03'
+    end: null
+    party: Republican
+    state: NV
+- id:
+    nga: https://classic.nga.org/cms/chris-sununu
+    votesmart: '125989'
+    ap: 65779
+  name:
+    official_full: Chris Sununu
+  bio:
+    birthday: '1974-11-05'
+  terms:
+  - type: gov
+    start: '2017-01-05'
+    end: null
+    party: Republican
+    state: NH
+- id:
+    nga: https://classic.nga.org/cms/chuck-morse
+    votesmart: null
+    ap: null
+  name:
+    official_full: Chuck Morse
+  bio:
+    birthday: '1960-11-16'
+  terms:
+  - type: gov
+    start: '2017-01-03'
+    end: '2017-01-05'
+    party: Republican
+    state: NH
+- id:
+    nga: https://classic.nga.org/cms/maggie-hassan
+    votesmart: '42552'
+    ap: 62653
+  name:
+    official_full: Maggie Hassan
+  bio:
+    birthday: '1958-02-27'
+  terms:
+  - type: gov
+    start: '2013-01-03'
+    end: '2017-01-03'
+    party: Democrat
+    state: NH
+- id:
+    nga: https://classic.nga.org/cms/phil-murphy
+    votesmart: '176221'
+    ap: null
+  name:
+    official_full: Phil Murphy
+  bio:
+    birthday: '1957-08-16'
+  terms:
+  - type: gov
+    start: '2018-01-16'
+    end: null
+    party: Democrat
+    state: NJ
+- id:
+    nga: https://classic.nga.org/cms/susana-martinez
+    votesmart: '121633'
+    ap: 31807
+  name:
+    official_full: Susana Martinez
+  bio:
+    birthday: '1959-07-14'
+  terms:
+  - type: gov
+    start: '2011-01-01'
+    end: null
+    party: Republican
+    state: NM
+- id:
+    nga: https://classic.nga.org/cms/andrew-cuomo
+    votesmart: '45083'
+    ap: 1506
+  name:
+    official_full: Andrew Cuomo
+  bio:
+    birthday: '1957-12-06'
+  terms:
+  - type: gov
+    start: '2011-01-01'
+    end: null
+    party: Democrat
+    state: NY
+- id:
+    nga: https://classic.nga.org/cms/roy-cooper
+    votesmart: '5900'
+    ap: 34471
+  name:
+    official_full: Roy Cooper
+  bio:
+    birthday: '1957-06-13'
+  terms:
+  - type: gov
+    start: '2017-01-01'
+    end: null
+    party: Democrat
+    state: NC
+- id:
+    nga: https://classic.nga.org/cms/pat-mccrory
+    votesmart: '41567'
+    ap: 35254
+  name:
+    official_full: Pat McCrory
+  bio:
+    birthday: '1956-10-17'
+  terms:
+  - type: gov
+    start: '2013-01-05'
+    end: '2016-12-31'
+    party: Republican
+    state: NC
+- id:
+    nga: https://classic.nga.org/cms/doug-burgum
+    votesmart: '170745'
+    ap: 64942
+  name:
+    official_full: Doug Burgum
+  bio:
+    birthday: '1956-08-01'
+  terms:
+  - type: gov
+    start: '2016-12-15'
+    end: null
+    party: Republican
+    state: ND
+- id:
+    nga: https://classic.nga.org/cms/ralph-deleon-guerrero-torres
+    votesmart: '156127'
+    ap: null
+  name:
+    official_full: Ralph Deleon Guerrero Torres
+  bio:
+    birthday: '1979-08-06'
+  terms:
+  - type: gov
+    start: '2015-12-29'
+    end: null
+    party: Republican
+    state: MP
+- id:
+    nga: https://classic.nga.org/cms/eloy-inos
+    votesmart: null
+    ap: null
+  name:
+    official_full: Eloy Inos
+  bio:
+    birthday: null
+  terms:
+  - type: gov
+    start: '2013-02-20'
+    end: '2015-12-29'
+    party: Republican
+    state: MP
+- id:
+    nga: https://classic.nga.org/cms/john-kasich
+    votesmart: '27017'
+    ap: 36679
+  name:
+    official_full: John Kasich
+  bio:
+    birthday: '1952-05-13'
+  terms:
+  - type: gov
+    start: '2011-01-10'
+    end: null
+    party: Republican
+    state: OH
+- id:
+    nga: https://classic.nga.org/cms/mary-fallin
+    votesmart: '1699'
+    ap: 37501
+  name:
+    official_full: Mary Fallin
+  bio:
+    birthday: '1954-12-09'
+  terms:
+  - type: gov
+    start: '2011-01-10'
+    end: null
+    party: Republican
+    state: OK
+- id:
+    nga: https://classic.nga.org/cms/kate-brown
+    votesmart: '2990'
+    ap: 57502
+  name:
+    official_full: Kate Brown
+  bio:
+    birthday: '1960-06-21'
+  terms:
+  - type: gov
+    start: '2015-02-18'
+    end: null
+    party: Democrat
+    state: OR
+- id:
+    nga: https://classic.nga.org/cms/tom-wolf
+    votesmart: '77203'
+    ap: 63485
+  name:
+    official_full: Tom Wolf
+  bio:
+    birthday: '1948-11-17'
+  terms:
+  - type: gov
+    start: '2015-01-20'
+    end: null
+    party: Democrat
+    state: PA
+- id:
+    nga: https://classic.nga.org/cms/ricardo-rossello
+    votesmart: null
+    ap: null
+  name:
+    official_full: "Ricardo Rossell\xF3"
+  bio:
+    birthday: '1979-03-07'
+  terms:
+  - type: gov
+    start: '2017-01-02'
+    end: null
+    party: New Progressive Party of Puerto Rico (PNP)
+    state: PR
+- id:
+    nga: https://classic.nga.org/cms/alejandro-garcia-padilla
+    votesmart: null
+    ap: null
+  name:
+    official_full: "Alejandro Javier Garc\xEDa Padilla"
+  bio:
+    birthday: '1971-08-03'
+  terms:
+  - type: gov
+    start: '2013-01-04'
+    end: '2017-01-01'
+    party: PDP of Puerto Rico
+    state: PR
+- id:
+    nga: https://classic.nga.org/cms/gina-raimondo
+    votesmart: '128028'
+    ap: 63911
+  name:
+    official_full: Gina Raimondo
+  bio:
+    birthday: '1971-05-17'
+  terms:
+  - type: gov
+    start: '2015-01-06'
+    end: null
+    party: Democrat
+    state: RI
+- id:
+    nga: https://classic.nga.org/cms/henry-mcmaster
+    votesmart: '48189'
+    ap: null
+  name:
+    official_full: Henry McMaster
+  bio:
+    birthday: '1947-05-27'
+  terms:
+  - type: gov
+    start: '2017-01-24'
+    end: null
+    party: Republican
+    state: SC
+- id:
+    nga: https://classic.nga.org/cms/dennis-daugaard
+    votesmart: '11218'
+    ap: 40715
+  name:
+    official_full: Dennis Daugaard
+  bio:
+    birthday: '1953-06-11'
+  terms:
+  - type: gov
+    start: '2011-01-08'
+    end: null
+    party: Republican
+    state: SD
+- id:
+    nga: https://classic.nga.org/cms/bill-haslam
+    votesmart: '78497'
+    ap: 60948
+  name:
+    official_full: Bill Haslam
+  bio:
+    birthday: '1958-08-23'
+  terms:
+  - type: gov
+    start: '2011-01-15'
+    end: null
+    party: Republican
+    state: TN
+- id:
+    nga: https://classic.nga.org/cms/greg-abbott
+    votesmart: '50168'
+    ap: 41404
+  name:
+    official_full: Greg Abbott
+  bio:
+    birthday: '1957-11-13'
+  terms:
+  - type: gov
+    start: '2015-01-20'
+    end: null
+    party: Republican
+    state: TX
+- id:
+    nga: https://classic.nga.org/cms/gary-richard-herbert
+    votesmart: '50344'
+    ap: 44298
+  name:
+    official_full: Gary Richard Herbert
+  bio:
+    birthday: '1947-05-07'
+  terms:
+  - type: gov
+    start: '2009-08-11'
+    end: null
+    party: Republican
+    state: UT
+- id:
+    nga: https://classic.nga.org/cms/phil-scott
+    votesmart: '55934'
+    ap: 45443
+  name:
+    official_full: Phil Scott
+  bio:
+    birthday: '1958-08-04'
+  terms:
+  - type: gov
+    start: '2017-01-05'
+    end: null
+    party: Republican
+    state: VT
+- id:
+    nga: https://classic.nga.org/cms/kenneth-mapp
+    votesmart: '15446'
+    ap: null
+  name:
+    official_full: Kenneth Mapp
+  bio:
+    birthday: null
+  terms:
+  - type: gov
+    start: '2015-01-05'
+    end: null
+    party: Independent
+    state: VI
+- id:
+    nga: https://classic.nga.org/cms/ralph-northam
+    votesmart: '90253'
+    ap: null
+  name:
+    official_full: Ralph Northam
+  bio:
+    birthday: '1959-09-13'
+  terms:
+  - type: gov
+    start: '2018-01-13'
+    end: null
+    party: Democrat
+    state: VA
+- id:
+    nga: https://classic.nga.org/cms/terry-mcauliffe
+    votesmart: '111166'
+    ap: null
+  name:
+    official_full: Terry McAuliffe
+  bio:
+    birthday: '1957-02-09'
+  terms:
+  - type: gov
+    start: '2014-01-11'
+    end: '2018-01-12'
+    party: Democrat
+    state: VA
+- id:
+    nga: https://classic.nga.org/cms/jay-inslee
+    votesmart: '27125'
+    ap: 1465
+  name:
+    official_full: Jay Inslee
+  bio:
+    birthday: null
+  terms:
+  - type: gov
+    start: '2013-01-16'
+    end: null
+    party: Democrat
+    state: WA
+- id:
+    nga: https://classic.nga.org/cms/jim-justice
+    votesmart: '166287'
+    ap: 64870
+  name:
+    official_full: Jim Justice
+  bio:
+    birthday: '1951-04-26'
+  terms:
+  - type: gov
+    start: '2017-01-16'
+    end: null
+    party: Republican
+    state: WV
+- id:
+    nga: https://classic.nga.org/cms/scott-walker
+    votesmart: '3552'
+    ap: 48976
+  name:
+    official_full: Scott Walker
+  bio:
+    birthday: '1967-11-02'
+  terms:
+  - type: gov
+    start: '2011-01-03'
+    end: null
+    party: Republican
+    state: WI
+- id:
+    nga: https://classic.nga.org/cms/matthew-mead
+    votesmart: '127254'
+    ap: null
+  name:
+    official_full: Matthew Mead
+  bio:
+    birthday: '1962-03-11'
+  terms:
+  - type: gov
+    start: '2011-01-03'
+    end: null
+    party: Republican
+    state: WY

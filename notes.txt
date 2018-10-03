@@ -1,0 +1,14 @@
+- NGA
+	- https://www.nga.org/governors/
+		- https://www.nga.org/governors/addresses/
+		- https://github.com/OpenSourceActivismTech/us-governors
+	- Former Governors' Bios: https://classic.nga.org/cms/FormerGovBios?inOffice=Any&state=0adb7c36-4a4b-49fd-ba16-ee156a1036b7&party=&lastName=&firstName=&nbrterms=Any&biography=&sex=Any&religion=&race=Any&college=&higherOfficesServed=&militaryService=&warsServed=&honors=&birthState=Any&submit=Search
+	- https://classic.nga.org/cms/home/governors/past-governors-bios/page_alabama.default.html?begincf757b7b-9ab7-47cc-90d3-12757d603123=0&endcf757b7b-9ab7-47cc-90d3-12757d603123=9&pagesizecf757b7b-9ab7-47cc-90d3-12757d603123=10&
+	- https://classic.nga.org/cms/FormerGovBios
+
+- https://github.com/CivilServiceUSA/us-governors
+	- https://docs.google.com/spreadsheets/d/1AMwiClcbogCc1LoIlwX8M2vFGNzGK3NQWY5Qrk6sNuc/edit#gid=284703522
+- https://en.wikipedia.org/wiki/List_of_current_United_States_governors
+- https://en.wikipedia.org/wiki/List_of_Governors_of_Alabama
+- https://en.wikipedia.org/wiki/List_of_Governors_of_Alaska
+- https://en.wikipedia.org/wiki/List_of_Governors_of_Arizona
