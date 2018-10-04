@@ -9,7 +9,6 @@ lxml = "*"
 cssselect = "*"
 votesmart = {git = "https://github.com/AlJohri/python-votesmart.git"}
 requests-futures = "*"
-tqdm = "*"
 us = "*"
 unidecode = "*"
 nameparser = "*"

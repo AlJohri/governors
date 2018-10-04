@@ -12,3 +12,12 @@
 - https://en.wikipedia.org/wiki/List_of_Governors_of_Alabama
 - https://en.wikipedia.org/wiki/List_of_Governors_of_Alaska
 - https://en.wikipedia.org/wiki/List_of_Governors_of_Arizona
+
+```
+from joblib import Memory
+memory = Memory(cachedir='.cache', verbose=0)
+
+@memory.cache
+def get(url):
+    return blah
+```
