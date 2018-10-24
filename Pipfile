@@ -12,6 +12,7 @@ requests-futures = "*"
 us = "*"
 unidecode = "*"
 nameparser = "*"
+oyaml = "*"
 
 [dev-packages]
 pylint = "*"
